@@ -1,0 +1,220 @@
+    1  apt sudo install ipython
+    2  sudo install ipython
+    3  cd Downloads
+    4  ls
+    5  Ls
+    6  ls
+    7  ls 
+    8  cd Downloads
+    9  ls
+   10  bash Anaconda
+   11  bash Anaconda3-2019.10-Linux-x86_64.sh 
+   12  condas
+   13  conda list
+   14  export PATH=~/anaconda3/bin:$PATH
+   15  cd ~
+   16  conda 
+   17  export PATH=~/anaconda3/bin:$PATH
+   18  conda
+   19  Jupiter notebook
+   20  jupyter notebook
+   21  cd ~
+   22  jupyter notebook
+   23  ./idea.sh
+   24  sudo apt install openjdk-11-jdk
+   25  sudo snap install intellij-idea-community --classic
+   26  ls
+   27  pwd
+   28  mkdir workspace
+   29  cd workspace
+   30  ls
+   31  touch README.md
+   32  cp README.md CHANGELOG.md
+   33  touch exercise.md /tmp
+   34  cd ..
+   35  cd tmp
+   36  cd workspace
+   37  ls
+   38  cd ..
+   39  ls /root
+   40  touch umuzi.md recruits.md cohort.md
+   41  ls
+   42  cd workspace
+   43  touch umuzi.md recruits.md cohort.md
+   44  cat umuzi.md recruits.md cohort.md > newfile.md
+   45  cat umuzi.md recruits.md cohort.md
+   46  cat umuzi.md recruits.md cohort.md > summary.md
+   47  echo "The end" 1>> summary
+   48  echo "The end" 1>> summary.md
+   49  find . -name umuzi.md
+   50  cd /
+   51  ls
+   52  touch exercise.md /tmp
+   53  cd tmp
+   54  touch exercise.md tmp
+   55  cd /
+   56  touch exercise.md ../tmp
+   57  touch exercise.md
+   58  cd /
+   59  touch exercise.md
+   60  cd workspace
+   61  touch exercise.md
+   62  rm exercise.md
+   63  cd /tmp
+   64  ls
+   65  rm exercise.md
+   66  ls
+   67  cd /
+   68  cd workspace
+   69  cd /workspace
+   70  cd home
+   71  ls
+   72  cd workspace
+   73  find . -name umuzi.md > search_result.md
+   74  cd ..
+   75  cd documents
+   76  cd Documents
+   77  touch pad.md
+   78  cd ../Desktop
+   79  cd ..
+   80  cd ../Desktop mkdir work
+   81  cd ../Desktop
+   82  cd Desktop
+   83  mkdir work
+   84  ls
+   85  cd Documents/
+   86  ls
+   87  cd Rotondwa/
+   88  ls
+   89  cp linux-challenge\ task1-task7.txt ~/Linux-Challenges
+   90  cd ~/Linux-Challenges/
+   91  ls
+   92  rm -rf task1.txt 
+   93  git status
+   94  git add *
+   95  git status
+   96  git commit
+   97  git push
+   98  cd Documents
+   99  cd ..
+  100  cd Desktop
+  101  cd work
+  102  cd ..
+  103  cd Documents
+  104  cp pad.md /Desktop/work/pad_copy.md
+  105  cp pad.md ~/Desktop/work/pad_copy.md
+  106  sudo updatedb
+  107  locate updatedb
+  108  cd -
+  109  locate pad_copy.md
+  110  find ~ *.pdf
+  111  find ~ *.pdf /Documents/Results.md
+  112  find ~ *.pdf /Documents
+  113  find ~ *.pdf ~/Documents/Results.md
+  114  find ~ *.pdf ~/Documents
+  115  find . -mtime -1 -print
+  116  find <path> -daystart -ctime 0 -print
+  117  find ~/home -daystart -ctime 0 -print
+  118  find -daystart -ctime 0 -print
+  119  nano my_bio.md
+  120  mkdir my_files
+  121  mv my_bio.md ~/my_files
+  122  pwd
+  123  ls -lls -l
+  124  cd my_files
+  125  cd
+  126  touch t.txt mv t.txt /my_files
+  127  touch t.txt mv t.txt ~/my_files
+  128  ls -l my_files
+  129  sudo apt install git
+  130  git clone https://github.com/TondyNetsh/Linux-Challenges.git
+  131  ls -a
+  132  git add 
+  133  touch task1.txt ~/Documents
+  134  ls -l Documents
+  135  cd Documents
+  136  ls -l
+  137  touch task1.txt
+  138  ls -l
+  139  git add task1.txt
+  140  git init
+  141  git add task1.txt
+  142  git commit -m "Task 1"
+  143  git status
+  144  git push -u origin master
+  145  git push
+  146  git push -f
+  147  git push https://github.com/TondyNetsh/Linux-Challenges.git
+  148  ls
+  149  git rm --cached task1.txt
+  150  git add task1.txt
+  151  git commit -m "task 1"
+  152  ls -a
+  153  cd
+  154  cd Linux-Challenges
+  155  ls
+  156  ls -a
+  157  cp ~/Documents/task1.txt .
+  158  ls
+  159  git add task1.txt
+  160  git reset
+  161  git status
+  162  git add task1.txt
+  163  git status
+  164  git commit -m"Task 1"
+  165  git config --global user.email "rt.netsh@live.com"
+  166  git config --global user.name "TondyNetsh"
+  167  git commit -m"Task 1"
+  168  git push 
+  169  ls
+  170  git add linux-challenge\ task1-task7.txt 
+  171  git status
+  172  git add task1.txt 
+  173  git status
+  174  touch example.txt
+  175  ls -l
+  176  git add example.txt
+  177  git status
+  178  shutdown
+  179  mkdir git-basic-exercises
+  180  cd git-basic-exercises/
+  181  ls -a
+  182  git init
+  183  ls -a
+  184  git status
+  185  touch README.md
+  186  ls -a
+  187  git status
+  188  git log
+  189  git add README.md
+  190  git status
+  191  git reset
+  192  git status
+  193  git add README.md
+  194  git commit -m "initial commit"
+  195  git log
+  196  q
+  197  nana README.md
+  198  nano README.md
+  199  cat README.md
+  200  git stats
+  201  git status
+  202  git commit -m "second commit"
+  203  nano README.md
+  204  git commit -m "third commit"
+  205  git log
+  206  shutdown
+  207  -c
+  208  shutdown -c
+  209  shutdown
+  210  deactivaate
+  211  deactivate
+  212  conda deactivate
+  213  sudo nano /etc/crontab 
+  214  shutdown now
+  215  cd git-basic-exercises/
+  216  git branch
+  217  git checkout master
+  218  git branch history
+  219  git log
+  220  history > history.txt
