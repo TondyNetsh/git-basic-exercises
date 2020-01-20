@@ -1,3 +1,3 @@
-Rotondwa Netshimbupfe
-This is my readme file
+Rotondwa Netshimbupfe.
+This is my readme file.
 Welcome to umuzi.
